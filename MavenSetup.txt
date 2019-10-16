@@ -1,0 +1,4 @@
+STEPS TO CREATE A MAVEN PROJECT IN ECLIPSE 
+------------------------------------------
+1. Open Eclipse
+2. Click on New -> New Maven Project
